@@ -1,0 +1,1 @@
+# mackerel-plugin-registry
