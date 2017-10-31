@@ -1,6 +1,6 @@
 # mackerel-plugin-registry
 
-Official mackerel and check plugin registry.  Registered plugins can be installed by `mkr plugin install <plugin_name>`.
+The registry of mackerel and check plugins.  Registered plugins can be installed by `mkr plugin install <plugin_name>`.
 
 ## How to install a plugin
 
