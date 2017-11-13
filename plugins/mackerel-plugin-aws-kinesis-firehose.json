@@ -1,0 +1,4 @@
+{
+    "source": "mackerelio/mackerel-plugin-aws-kinesis-firehose",
+    "description": "AWS Kinesis Firehose metrics plugin"
+}
