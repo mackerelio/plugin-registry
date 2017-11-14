@@ -1,0 +1,4 @@
+{
+    "source": "mackerelio/mackerel-plugin-aws-rekognition",
+    "description": "AWS EC2 custom metrics plugin"
+}
