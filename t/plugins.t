@@ -17,7 +17,14 @@ for my $file (<./plugins/*.json>) {
         ok $json->{source}, "has source";
         ok $json->{description}, "has description";
 
-        ok $json->{source} =~ m|\A[-_.a-zA-Z0-9]+/[-_.a-zA-Z0-9]+\Z|, 'source is valid'
+        my $valid = ok $json->{source} =~ m|\A[-_.a-zA-Z0-9]+/[-_.a-zA-Z0-9]+\Z|, 'source is valid';
+        # test only safe sources
+        if ($valid) {
+            # curl -f exists with 0 when request succeeded
+            my $curl_failed = system('curl -fsLI -o /dev/null https://github.com/'.$json->{source});
+            ok ! $curl_failed, "source github repository is accessible";
+            sleep 1;
+        }
     };
 }
 
