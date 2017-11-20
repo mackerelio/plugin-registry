@@ -17,7 +17,7 @@ for my $file (<./plugins/*.json>) {
         ok $json->{source}, "has source";
         ok $json->{description}, "has description";
 
-        my $valid = ok $json->{source} =~ m|\A[-_.a-zA-Z0-9]+/[-_.a-zA-Z0-9]+\Z|, 'source is valid';
+        my $valid = like $json->{source}, qr|\A[-_.a-zA-Z0-9]+/[-_.a-zA-Z0-9]+\Z|, 'source is valid';
         # test only safe sources
         if ($valid) {
             # curl -f exists with 0 when request succeeded
