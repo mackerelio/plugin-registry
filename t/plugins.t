@@ -16,6 +16,8 @@ for my $file (<./plugins/*.json>) {
         ok !$@, "valid JSON";
         ok $json->{source}, "has source";
         ok $json->{description}, "has description";
+
+        ok $json->{source} =~ m|\A[-_.a-zA-Z0-9]+/[-_.a-zA-Z0-9]+\Z|, 'source is valid'
     };
 }
 
