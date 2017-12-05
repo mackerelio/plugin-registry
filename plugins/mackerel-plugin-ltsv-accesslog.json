@@ -1,0 +1,4 @@
+{
+    "source": "nashiox/mackerel-plugin-ltsv-accesslog",
+    "description": "LTSV Accesslog custom metrics plugin"
+}
