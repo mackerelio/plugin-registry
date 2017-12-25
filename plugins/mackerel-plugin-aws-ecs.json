@@ -1,0 +1,4 @@
+{
+    "source": "mackerelio/mackerel-plugin-aws-ecs",
+    "description": "AWS ECS custom metrics plugin"
+}
