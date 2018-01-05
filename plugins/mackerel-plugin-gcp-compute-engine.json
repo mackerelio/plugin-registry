@@ -1,0 +1,4 @@
+{
+    "source": "mackerelio/mackerel-plugin-gcp-compute-engine",
+    "description": "A plugin that collects metrics from Google Compute Engine"
+}
