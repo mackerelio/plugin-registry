@@ -1,0 +1,4 @@
+{
+    "source": "syou6162/check-jenkins-build-time",
+    "description": "A plugin to check jenkins build time seconds"
+}
