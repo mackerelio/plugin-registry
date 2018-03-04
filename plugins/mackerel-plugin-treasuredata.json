@@ -1,0 +1,4 @@
+{
+    "source": "ken11/mackerel-plugin-treasuredata",
+    "description": "Plugin for count TreasureData records and count running or queued jobs"
+}
