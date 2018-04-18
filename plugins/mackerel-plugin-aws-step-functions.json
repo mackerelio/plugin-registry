@@ -1,0 +1,4 @@
+{
+    "source": "mackerelio/mackerel-plugin-aws-step-functions",
+    "description": "AWS Step Functions custom metrics plugin"
+}
