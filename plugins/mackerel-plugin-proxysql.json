@@ -1,0 +1,4 @@
+{
+    "source": "hfm/mackerel-plugin-proxysql",
+    "description": "ProxySQL custom metrics plugin"
+}
