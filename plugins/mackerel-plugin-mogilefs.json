@@ -1,0 +1,4 @@
+{
+    "source": "hfm/mackerel-plugin-mogilefs",
+    "description": "MogileFS custom metrics plugin"
+}
