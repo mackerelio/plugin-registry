@@ -1,0 +1,4 @@
+{
+    "source": "hfm/mackerel-plugin-unbound",
+    "description": "Unbound custom metrics plugin"
+}
