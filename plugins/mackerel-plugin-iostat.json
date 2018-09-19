@@ -1,0 +1,4 @@
+{
+    "source": "shield-9/mackerel-plugin-iostat",
+    "description": "iostat mackerel plugin (Linux only)"
+}
