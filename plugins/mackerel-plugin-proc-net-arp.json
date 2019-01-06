@@ -1,0 +1,4 @@
+{
+  "source":"nabeo/mackerel-plugin-proc-net-arp",
+  "description": "mackerel-plugin for /proc/net/arp (Linux only)"
+}
