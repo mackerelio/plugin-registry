@@ -1,0 +1,4 @@
+{
+  "source":"nabeo/mackerel-plugin-proc-net-ip_vs",
+  "description":"mackerel-plugin for /proc/net/ip_vs (Linux Only)"
+}
