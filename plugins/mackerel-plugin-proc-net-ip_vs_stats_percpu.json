@@ -1,0 +1,4 @@
+{
+  "source":"nabeo/mackerel-plugin-proc-net-ip_vs_stats_percpu",
+  "description":"mackerel-plugin for /proc/net/ip_vs_stats_percpu (Linux Only)"
+}
