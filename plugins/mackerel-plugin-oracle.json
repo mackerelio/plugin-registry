@@ -1,0 +1,4 @@
+{
+    "source": "mattn/mackerel-plugin-oracle",
+    "description": "Oracle custom metrics plugin"
+}
