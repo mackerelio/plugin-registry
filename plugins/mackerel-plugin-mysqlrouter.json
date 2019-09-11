@@ -1,0 +1,4 @@
+{
+    "source": "rluisr/mackerel-plugin-mysqlrouter",
+    "description": "MySQL Router metrics plugin"
+}
