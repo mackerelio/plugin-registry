@@ -1,0 +1,4 @@
+{
+    "source": "ryosms/mackerel-plugin-multicore-windows",
+    "description": "Multicore CPU metrics plugin for Windows"
+}
