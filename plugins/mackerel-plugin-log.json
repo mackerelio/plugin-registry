@@ -1,0 +1,4 @@
+{
+    "source": "a-know/mackerel-plugin-log",
+    "description": "Metric plugin for posts the number of detected log lines as metrics."
+}
