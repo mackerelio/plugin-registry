@@ -1,0 +1,4 @@
+{
+    "source": "mackerelio/check-aws-cloudwatch-logs-insights",
+    "description": "Amazon CloudWatch Logs check plugin with CloudWatch Logs Insights"
+}
