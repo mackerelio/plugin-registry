@@ -1,0 +1,4 @@
+{
+  "source": "nabeo/mackerel-plugin-aws-transitgateway",
+  "description": "AWS Transit Gateway custom metrics plugin"
+}
