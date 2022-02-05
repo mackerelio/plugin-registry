@@ -1,0 +1,4 @@
+{
+  "source": "syou6162/mackerel-plugin-bigquery-query-result-importer",
+  "description": "Mackerel plugin to post bigquery's query result"
+}
