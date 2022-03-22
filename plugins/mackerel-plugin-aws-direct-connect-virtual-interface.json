@@ -1,0 +1,4 @@
+{
+  "source": "nabeo/mackerel-plugin-aws-direct-connect-virtual-interface",
+  "description": "mackerel-agent plugin for AWS Direct Connect Virtual interface"
+}
