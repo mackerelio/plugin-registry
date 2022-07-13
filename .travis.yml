@@ -1,6 +1,0 @@
-language: perl
-perl: "5.26"
-install:
-- echo 'no dependency.'
-script:
-- prove -lvr t/
