@@ -1,0 +1,4 @@
+{
+    "source": "mackerelio-labs/check-mackerel-metric",
+    "description": "Check Mackerel host metrics (or service metrics) are still being posted"
+}
